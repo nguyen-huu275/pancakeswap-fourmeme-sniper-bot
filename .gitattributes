@@ -1,0 +1,7 @@
+# Project-specific overrides
+
+* text=auto
+*.bat text eol=crlf
+vendor/* linguist-vendored
+*.tsx linguist-detectable
+public/index.html linguist-vendored
